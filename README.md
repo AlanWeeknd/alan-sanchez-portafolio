@@ -8,4 +8,4 @@
 - [Sistema de Gestión de Inventarios](projects/inventario): Full-stack con MERN.  
 - [App de Tareas](projects/task-app): React + Firebase.  
 
-📫 **Contacto**: correo@ejemplo.com | [LinkedIn](https://linkedin.com/in/tuperfil)  
+📫 **Contacto**: alan.sanchez150918@gmail.com | [LinkedIn](https://linkedin.com/in/tuperfil)  
